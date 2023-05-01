@@ -1,5 +1,6 @@
 # SFES
-Encryption and Decryption app. Code with GUI which allow you to encrypt and decrypt your file with key.
+
+File encryption and decryption app. Code with GUI which allow you to encrypt and decrypt your file with key.
 
 Currently only supports AES algorithm, but with time I think add another type of encryption
 
